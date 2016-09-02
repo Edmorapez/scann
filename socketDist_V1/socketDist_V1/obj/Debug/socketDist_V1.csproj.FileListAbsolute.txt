@@ -1,0 +1,6 @@
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\bin\Debug\socketDist_V1.exe.config
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\bin\Debug\socketDist_V1.exe
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\bin\Debug\socketDist_V1.pdb
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\obj\Debug\socketDist_V1.csprojResolveAssemblyReference.cache
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\obj\Debug\socketDist_V1.exe
+c:\users\edgar1\documents\visual studio 2015\Projects\socketDist_V1\socketDist_V1\obj\Debug\socketDist_V1.pdb
